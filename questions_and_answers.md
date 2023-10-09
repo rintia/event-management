@@ -18,9 +18,9 @@ console.log(greetign);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: A: {}
 
-<i>Write your explanation here</i>
+<i>Here the value of greetings is an empty object. So when greeting console.log the output is also an empty object </i>
 
 </p>
 </details>
@@ -43,9 +43,9 @@ sum(1, "2");
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: C: "12"
 
-<i>Write your explanation here</i>
+<i>Here the value of a is a number and the value of b is a string. When a number and a string is added the result is always string. So, 1+ '2' = '12'</i>
 
 </p>
 </details>
@@ -69,9 +69,9 @@ console.log(food);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: A
 
-<i>Write your explanation here</i>
+<i>Here the array food is not changed. So when food is console.log it shows the same value of food.</i>
 
 </p>
 </details>
@@ -94,9 +94,9 @@ console.log(sayHi());
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: B: 'Hi there, undefined'
 
-<i>Write your explanation here</i>
+<i>sayHi is a function that takes a parameter name. But here when the saHi function is called no parameter is passed, so it returns undefined in the place of name.</i>
 
 </p>
 </details>
@@ -122,9 +122,9 @@ console.log(count);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: ? C: 3
 
-<i>Write your explanation here</i>
+<i>In the nums array there are four elements. Three of them (1,2,3) are truthy and one of the is falsy which is '0'. So in the if condition three of them are true. So count is added plus 1 three times and the result is 3. </i>
 
 </p>
 </details>
